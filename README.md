@@ -212,37 +212,6 @@ Vibbo AI is building toward:
 - **AI-Optimized** - Built-in models vs API configuration
 - **Budget-Friendly** - Pay-per-use vs infrastructure or subscription costs
 
-## 📊 SEO Keywords
-
-**Primary Keywords:**
-- Visual workflow automation
-- No code AI platform
-- Drag and drop AI
-- AI workflow builder
-- Budget AI tools
-- n8n alternative
-- ComfyUI alternative
-
-**Secondary Keywords:**
-- File processing automation
-- Document intelligence
-- Media processing pipeline
-- Content creation workflows
-- Pay per use AI
-- Alternative to ChatGPT
-- No subscription AI
-- Workflow automation tool
-- Visual AI editor
-- Node-based workflow
-
-**Long-tail Keywords:**
-- Best n8n alternative for AI workflows
-- ComfyUI without installation
-- Visual workflow builder like n8n
-- AI file processing platform
-- No code alternative to ComfyUI
-- Cloud-based workflow automation
-
 ## 📄 License
 
 Proprietary - © 2025 Vibbo AI. All rights reserved.
